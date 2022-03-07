@@ -8,7 +8,7 @@ python使用pip下载插件：
 pip install xxx
 python3 -m pip install xxx
 
-使用外国镜像下载,网速不好会超时，需要指定国内镜像: pip install xxx -i YYY
+使用外国镜像下载,网速不好会超时，需要指定国内镜像: pip install xxx -i XXX
 
 - 选择国内的镜像源列表如下：
  - 清华源： https://pypi.tuna.tsinghua.edu.cn/simple/
