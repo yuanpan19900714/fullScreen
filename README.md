@@ -2,13 +2,12 @@
 
 本项目是一个Python项目，其功能非常简单，就是实现浏览器窗口的自动化全屏，应注意浏览器驱动的类型和版本需要和浏览器匹配，更多selenium自动化测试的知识参见https://www.selenium.dev/
 
-python项目打包成exe命令： pyinstaller -F main.py
+python项目打包成exe命令： `pyinstaller -F main.py`
 
 - python使用pip下载插件：
-`pip install xxx`
-`python3 -m pip install xxx`
+`pip install xxx` 或者 `python3 -m pip install xxx`
 
-使用外国镜像下载,网速不好会超时，需要指定国内镜像: pip install xxx -i XXX
+使用外国镜像下载,网速不好会超时，需要指定国内镜像: `pip install xxx -i XXX`
 
 - 选择国内的镜像源列表如下：
  - 清华源： https://pypi.tuna.tsinghua.edu.cn/simple/
