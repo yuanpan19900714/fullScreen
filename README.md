@@ -9,7 +9,7 @@ python项目打包成exe命令： `pyinstaller -F main.py`
 
 使用外国镜像下载,网速不好会超时，需要指定国内镜像: `pip install xxx -i XXX`
 
-- 选择国内的镜像源列表如下：
+选择国内的镜像源列表如下：
  - 清华源： https://pypi.tuna.tsinghua.edu.cn/simple/
  - 阿里云： http://mirrors.aliyun.com/pypi/simple/
  - 中国科技大学： https://pypi.mirrors.ustc.edu.cn/simple/
